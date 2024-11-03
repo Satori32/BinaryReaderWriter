@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryWriter.cpp" />
     <ClCompile Include="MemoryAllocator.cpp" />
     <ClCompile Include="Vector.cpp" />
     <ClCompile Include="ソース.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryWriter.h" />
     <ClInclude Include="MemoryAllocator.h" />
     <ClInclude Include="Vector.h" />
   </ItemGroup>
